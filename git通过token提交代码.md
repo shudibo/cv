@@ -28,12 +28,12 @@ To https://github.com/shudibo/cv.git
 [sdb@myserver /mnt/e/Web Development/cv main]$
 ```
 
-![image-20220526195033025](git通过token提交代码.assets/image-20220526195033025.png)
+![image-20220526195033025](images/image-20220526195033025.png)
 
 ###  设置 token
 修改服务的配置，配置文件在 .git/config
 
-![image-20220526194816633](images/image-20220526194816633-16535657384911.png)
+![image-20220526194816633](images/image-20220526194816633.png)
 
 用 记事本 程序打开这个文件：
 
